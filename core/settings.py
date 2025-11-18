@@ -21,7 +21,7 @@ DEBUG = os.environ.get("DEBUG", "True") == "True"
 ALLOWED_HOSTS = [
     'localhost',
     '127.0.0.1',
-    'https://inventory-system-cdq0.onrender.com',  # your Render domain
+    'https://inventorysystem-oqp4.onrender.com',  # your Render domain
 ]
 
 # ✅ Add Render dynamic hostname (if available)
